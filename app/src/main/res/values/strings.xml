@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">vit</string>
+    <string name="result">RESULT:\n</string>
+    <string name="history">Enter</string>
+</resources>
